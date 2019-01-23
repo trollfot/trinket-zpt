@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title tal:content="title" />
+  </head>
+  <body>
+    <h1>Welcome to ${name} !</h1>
+    <p>This is my ZPT/Chameleon example.</p>
+  </body>
+</html>
